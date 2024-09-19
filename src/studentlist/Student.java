@@ -8,6 +8,8 @@ package studentlist;
  *
  * @author dohaa
  */
+//tuesday
+
 public class Student
 {
    private String name; // variable private
